@@ -32,16 +32,6 @@ E-Mail: alanlena.vanbeek@plus.ac.at
 
 
 ---
-
-![[profil_daniel_schlager-scaled-1300x867-1.jpg.jpg]]
-
-Daniel Schlager 
-Externer Developer 
-Inh. Fa. Software Komponist
-
-https://www.softwarekomponist.at/ 
-
-
 ---
 
 ![em.Univ.-Prof.Dr. Klaus M. Schmidt](https://www.plus.ac.at/wp-content/uploads/2021/02/klaus.jpg "em.Univ.-Prof.Dr. Klaus M. Schmidt")
