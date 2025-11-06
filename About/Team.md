@@ -1,6 +1,6 @@
 
 ![[Katharina_05.jpg]]
-**Mag. Dr. Katharina Zeppezauer-Wachauer, MA** (karenziert)
+**Mag. Dr. Katharina Zeppezauer-Wachauer, MA** 
 Koordinatorin
 
 Erzabt-Klotz-Straße 1, 5020 Salzburg  
@@ -12,13 +12,11 @@ E-Mail: katharina.wachauer@plus.ac.at
 
 ![[IMG_3031_sw.jpg]]
 Julia Hintersteiner, MA 
-Karenzvertretung Mag. Dr. Katharina Zeppezauer-Wachauer, MA
 E-Mail: julia.hintersteiner@plus.ac.at
 
 
 ---
 
-![Bild von AvB](https://www.plus.ac.at/wp-content/uploads/2023/07/AvB%C2%A9anjapaap_PRINT10.jpg)
 
 **Dr. Alan Lena van Beek, MA**  
 Wissenschaftliche*r Mitarbeiter*in
@@ -34,7 +32,6 @@ E-Mail: alanlena.vanbeek@plus.ac.at
 ---
 ---
 
-![em.Univ.-Prof.Dr. Klaus M. Schmidt](https://www.plus.ac.at/wp-content/uploads/2021/02/klaus.jpg "em.Univ.-Prof.Dr. Klaus M. Schmidt")
 
 **em. Univ.-Prof.Dr. Klaus M. Schmidt**  
 Urheber, Beirat und Mitwirkender (extern)
