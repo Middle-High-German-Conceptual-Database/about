@@ -2,7 +2,8 @@
 
 - Open Beta Release der neuen MHDBDB
 
-### 2024 kontinuierliche Evaluation durch User*innen über LimeSurvey 
+### 2024 
+kontinuierliche Evaluation durch User*innen über LimeSurvey 
 
 
 ### 2025 
