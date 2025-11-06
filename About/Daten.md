@@ -99,7 +99,7 @@ Abb.: MHDBDB Main Ontology 
 Die Zusammenhänge der Annotationen sind in der MHDBDB Main Ontology abgebildet, die auch auf GitHub verfügbar ist (s. Ontologien).
 
 ### Zitiervorschlag  
-**Mittelhochdeutsche Begriffsdatenbank (MHDBDB).** Universität Salzburg. Koordination: Katharina Zeppezauer-Wachauer. Seit 1992. URL: [http://www.mhdbdb.plus.ac.at/](http://www.mhdbdb.plus.ac.at/) (Abrufdatum). Eine DOI bei re3data und zitierbare Permalinks sind für 2024 geplant.
+**Mittelhochdeutsche Begriffsdatenbank (MHDBDB).** Universität Salzburg. Koordination: Katharina Zeppezauer-Wachauer. Seit 1992. URL: [http://www.mhdbdb.plus.ac.at/](http://www.mhdbdb.plus.ac.at/) (Abrufdatum). DOI: 10.60646/MHDBDB. .
 
 ### Infrastruktur, Architektur und Design
 
