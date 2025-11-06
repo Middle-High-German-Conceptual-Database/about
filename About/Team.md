@@ -1,5 +1,4 @@
 
-![[Katharina_05.jpg]]
 **Mag. Dr. Katharina Zeppezauer-Wachauer, MA** 
 Koordinatorin
 
@@ -10,8 +9,7 @@ E-Mail: katharina.wachauer@plus.ac.at
 
 
 
-![[IMG_3031_sw.jpg]]
-Julia Hintersteiner, MA 
+**Julia Hintersteiner, MA** 
 E-Mail: julia.hintersteiner@plus.ac.at
 
 
