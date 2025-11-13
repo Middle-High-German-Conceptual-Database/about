@@ -12,4 +12,5 @@
 - Optimierung von User Experience (UX) und User Interface (UI)  
 - Verbesserung der Performance (=Erhöhung der Schnelligkeit, insbesondere von komplexen Suchen) 
     
-
+## 2026
+- vorraussichtliche Abschaltung der alten MHDBDB :( 
