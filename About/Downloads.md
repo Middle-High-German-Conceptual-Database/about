@@ -1,3 +1,7 @@
+## TEI-XML Files
+
+Das gesamte Korpus, ausgezeichnet mit TEI-XML-Annotationen. 
+https://github.com/Middle-High-German-Conceptual-Database/TEI-Texte 
 
 ## Text Series 
 Ein anwendungsorientierter Thesaurus, mit dem Ressourcen klassifiziert und annotiert werden können, um daraus verschiedenen Nutzen zu ziehen: Zum Beispiel die Erschließung von Quellen, die Berücksichtigung in Web-Benutzeroberflächen, die Anreicherung von bibliographischen Metadaten/Normdaten und nicht zuletzt eine Erweiterung des Methodeninventars und eine verbesserte Kontextualisierung insgesamt.
