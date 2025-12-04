@@ -1,16 +1,36 @@
-### 11.11.2023 
+11.11.2023 
+
+
 
 - Open Beta Release der neuen MHDBDB
 
-### 2024 
+
+
+2024 
+
 - kontinuierliche Evaluation durch User*innen über LimeSurvey 
 
 
-### 2025 
 
-- diverse Bug Fixes durch Complement im Rahmen des Projektes "Users First. Optimierung von User Interface, User Experience und Crowdsourcing an der Mittelhochdeutschen Begriffsdatenbank"
-- Optimierung von User Experience (UX) und User Interface (UI)  
-- Verbesserung der Performance (=Erhöhung der Schnelligkeit, insbesondere von komplexen Suchen) 
-    
-## 2026
-- vorraussichtliche Abschaltung der alten MHDBDB :( 
+ 2025 
+
+
+
+ diverse Bug Fixes durch Complement im Rahmen des Projektes "Users First. Optimierung von User Interface, User Experience und Crowdsourcing an der Mittelhochdeutschen Begriffsdatenbank"
+
+Optimierung von User Experience (UX) und User Interface (UI)
+
+Verbesserung der Performance (=Erhöhung der Schnelligkeit, insbesondere von komplexen Suchen)
+
+Sicherheitsrelevante Features
+
+Vereinfachung der Suche
+
+Trennung in Frontend (UI) und Backend (API)
+
+
+
+2026
+
+vorraussichtliche Abschaltung der alten MHDBDB :(
+
